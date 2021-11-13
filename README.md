@@ -7,7 +7,7 @@ Source code associate with the mini-dissertation of Chris van Niekerk, presented
 
 #### This code cannot be run in its current form because this repository is public and the data belong to the project sponsor. Should you require access, please contact me on xxxxxxxx@sun.ac.za, with the x's representing my student number as stated in the report file name. 
 
-### A short description of each file follows:
+# A short description of each file follows:
 
 ## calculate-tree-locs.py
 Calculation of tree positions as set out in Section 3.3.4 of the report
