@@ -1,4 +1,4 @@
-# 14946092_mini_dissertation
+Mini dissertation code base - 14946092
 Source code associate with the mini-dissertation of Chris van Niekerk, presented in partial fulfilment of the requirements for the degree of MEng (Structured) (Industrial Engineering) at the Faculty of Engineering at Stellenbosch University.
 
 <br>
@@ -41,5 +41,3 @@ This code cannot be run in its current form because this repository is public an
 Links to the relevant documentation and source code are included in the abovementioned files. 
 
 Should you have any questions, please contact me on the email address mentioned above. 
-
-Chris van Niekerk
