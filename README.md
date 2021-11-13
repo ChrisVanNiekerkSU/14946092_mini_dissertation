@@ -1,7 +1,7 @@
 # 14946092_mini_dissertation
 Source code associate with the mini-dissertation of Chris van Niekerk, presented in partial fulfilment of the requirements for the degree of MEng (Structured) (Industrial Engineering) at the Faculty of Engineering at Stellenbosch University
 <p align="center">
-## Automated tree position detection and height estimation from RGB aerial imagery using a combination of a local-maxima based algorithm, deep learning and traditional machine learning approaches
+<big>Automated tree position detection and height estimation from RGB aerial imagery using a combination of a local-maxima based algorithm, deep learning and traditional machine learning approaches</big>
 </p>
 # A short description of each file follows:
 
