@@ -1,5 +1,5 @@
 # 14946092_mini_dissertation
-Source code associate with the mini-dissertation of Chris van Niekerk, presented in partial fulfilment of the requirements for the degree of MEng (Structured) (Industrial Engineering) at the Faculty of Engineering at Stellenbosch University
+Source code associate with the mini-dissertation of Chris van Niekerk, presented in partial fulfilment of the requirements for the degree of MEng (Structured) (Industrial Engineering) at the Faculty of Engineering at Stellenbosch University.
 
 <br>
 
