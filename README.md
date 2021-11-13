@@ -5,7 +5,7 @@ Source code associate with the mini-dissertation of Chris van Niekerk
 
 #### Working code used for model selection and grid searches are included to some extent but is left incomplete and should not be considered. 
 
-#### This code cannot be run because this repository is public and the data belong to the project sponsor. Should you require access, please contact me on xxxxxxxx@sun.ac.za, with the x's representing my student number. 
+#### This code cannot be run in its current form because this repository is public and the data belong to the project sponsor. Should you require access, please contact me on xxxxxxxx@sun.ac.za, with the x's representing my student number as stated in the report file name. 
 
 ### A short description of each file follows:
 
