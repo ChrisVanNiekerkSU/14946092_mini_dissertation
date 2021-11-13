@@ -8,7 +8,7 @@
 
 Source code associate with the mini-dissertation of Chris van Niekerk, presented in partial fulfilment of the requirements for the degree of MEng (Structured) (Industrial Engineering) at the Faculty of Engineering at Stellenbosch University.
 
-# A short description of each file follows:
+# A short description of each file
 
 ## calculate-tree-locs.py
 Calculation of tree positions as set out in Section 3.3.4 of the report
