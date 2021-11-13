@@ -1,5 +1,5 @@
 # 14946092_mini_dissertation
-Source code associate with the mini-dissertation of Chris van Niekerk
+Source code associate with the mini-dissertation of Chris van Niekerk, presented in partial fulfilment of the requirements for the degree of MEng (Structured) (Industrial Engineering) at the Faculty of Engineering at Stellenbosch University
 
 #### The .py files contained in this repository include the majority of code written during the execution of this study. 
 
@@ -35,5 +35,3 @@ Links to the relevant documentation and source code are included in the abovemen
 Should you have any questions, please contact me on the email address mentioned above. 
 
 Chris van Niekerk
-
-
